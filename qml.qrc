@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Pics/prev.png</file>
+        <file>Pics/next.png</file>
+        <file>Pics/pause.png</file>
+        <file>Pics/play.png</file>
+    </qresource>
+</RCC>
